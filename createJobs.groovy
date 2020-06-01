@@ -13,7 +13,7 @@ pipelineJob('countries-job') {
             scm {
                 git {
                     remote {
-                        url 'https://santiago.apraez@git.pragma.com.co/santiago.apraez/Jenkins-pipeline.git'
+                        url 'https://github.com/santiaparez/rest-api-demo.git'
                     }
                     branch 'master'
                 }
